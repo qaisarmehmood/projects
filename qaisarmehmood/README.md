@@ -1,6 +1,9 @@
 ## New York demographics
 
-Chloropleth Map of New York showing the Population under age  5 in all New York counties for years 2010-2015.
+Chloropleth Map of New York showing the Population under age  5 in all New York counties for years 2010-2015 using data from census.gov.
+According to the data from the census.gov the county with highest population is Jefferson County and the lowest population County is Hamilton County. 
+The goal is to differentiate the counties with a highest percentage of population with the ones with lowest using a color scheme.
+
 
 ### Data
 
